@@ -1,6 +1,6 @@
 # CMPE 230 - HW1
 
-**Course:** Spring 2024
+Spring 2024
 
 ## Purpose
 
